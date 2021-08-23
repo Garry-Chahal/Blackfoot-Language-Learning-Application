@@ -1,0 +1,55 @@
+Ninaa,Man
+Aakii,Woman
+Aakiikoan,Girl
+Saahkomaapi,Boy
+Iksisst,Mother
+Inn,Father
+Oki,Hello
+Tsa niita'piiwa?,How are you?
+Matohkwiikii,Not too bad
+Okí,Let's go
+Aa,Yes
+Saa,No
+Oki napi,Hello friend
+Tsikohssokopii. kistoo?,I'm doing good. you?
+Makapoiyiss,Bathroom
+Itoiyo'soap,Kitchen
+Aiksistomatomahka,Car
+Kitsim,Door
+Ksisstsikomstan,Window
+Aisspaohpii,Elevator
+Imitaa,Dog
+Aotahkoinammiksi,Oranges
+Aipasstaamiinammiksi,Apples
+Aohkii,Water
+Pikkiaaksin,Burger
+Mamii,Fish
+Paataakistsi,Fries
+Pisatsoyiikan,Dessert
+Napayin,Bread
+Siksikimmii,Tea
+Iitapsiksikimmii,Coffee
+Itoiyo'pii,Cafe
+Naapoiyiss,House
+Itaohpomoapii,Store
+Aisaksittoo,Cinema
+Niitoiyiss,Tipi
+Itaisimmioapii,Night club
+Annohk,Today
+Ksisskanaotonni,This morning
+Aapinakos,Tomorrow
+Nitaakitapoo,I will go
+Nitaaksoyi,I will eat
+Ki,And
+Pookaa,Child
+Owaa,Eggs
+Nichitapoo,I went
+I'ksisako,Meat
+Aisaiksisttoo,Movie
+Kippohkokkit,Please pass the
+Isttsiksipoko,Salt
+Naapiiniiwan,Sugar
+Otako,Evening
+Tsima,Where
+Tahkaa,Who
+Matonni,Yesterday

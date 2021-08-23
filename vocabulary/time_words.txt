@@ -1,0 +1,14 @@
+Hello
+How are you?
+Not too bad
+Yes
+No
+Hello friend
+I'm doing good. you?
+Today
+This morning
+Tomorrow
+Evening
+Yesterday
+Where
+Who

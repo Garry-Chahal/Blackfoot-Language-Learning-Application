@@ -1,0 +1,10 @@
+Aotahkoinammiksi,Oranges
+Aipasstaamiinammiksi,Apples
+Aohkii,Water
+Pikkiaaksin,Burger
+Mamii,Fish
+Paataakistsi,Fries
+Pisatsoyiikan,Dessert
+Napayin,Bread
+Siksikimmii,Tea
+Iitapsiksikimmii,Coffee
