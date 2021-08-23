@@ -9,8 +9,9 @@ The Blackfoot Application provides users with different scenes through which the
 - Audio - The application allows the user to hear the audio for each respective Blackfoot word.
 - Score - The application allows the user to check their respective scores in each scene.
 - Speech synthesis - The user can create sentences in Blackfoot and view and hear the relevant translations.
+- 
 
 <p align="center">
   <img src="https://i.imgur.com/oYZkXli.png">
 </p>
-![Blackfoot Application](https://i.imgur.com/oYZkXli.png)
+
